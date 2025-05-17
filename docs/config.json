@@ -5,12 +5,12 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "fjy"
+    "text": "cocoyuan"
   },
   "text": {
     "more": "本网络图基于计算传播学文献的关键词共现分析，展示了主要研究热点的关系。数据来源于 Gephi 处理的文本共现网络，可用于探索不同概念之间的联系。\n",
-    "intro": "展现词语共现关系~",
-    "title": "test"
+    "intro": "展现协和董某莹事件中，微博广场相关贴文内容的基于PMI共现分析",
+    "title": "董某莹-PMI词语共现"
   },
   "legend": {
     "edgeLabel": "共现关系",
